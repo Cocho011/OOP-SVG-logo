@@ -1,0 +1,17 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "description": "Object-Oriented Programming Challenge: SVG Logo Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "author": "Carolina Ochoa",
+  "license": "MIT"
+}
